@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-  <b>Organizer:</b> Prof. Rajdip Nayek, Department of Applied Mechanics, IIT Delhi <br>
-  <b>Dates:</b> 19 May – 5 June 2026 &nbsp;|&nbsp; <b>Total hours:</b> ~45 contact hours across 12 instructional days <br>
-  <b>Audience:</b> Engineers and project professionals at Bechtel with no prior ML background
+  <b>Organizer:</b> Prof. Arpit Agarwal and Prof. Rajdip Nayek, Department of Applied Mechanics, IIT Delhi <br>
+  <b>Dates:</b> 23 June – 3 July 2026 &nbsp;|&nbsp; <b>Total hours:</b> ~39 contact hours across 7 instructional days <br>
+  <b>Audience:</b> Engineers and project professionals at Bechtel with no prior AI/ML background
 </p>
 
 ---
@@ -18,17 +18,15 @@
 
 | Week | Dates | Location |
 |------|-------|----------|
-| Week 1 — Foundations | Tue 19 May – Fri 22 May | Bechtel GGN Office, Gurugram · 9:00 AM – 1:00 PM |
-| Week 2 — Deep Learning | Mon 25 May – Fri 29 May | Bechtel GGN Office, Gurugram · 9:00 AM – 1:00 PM |
-| Week 3 — Advanced Topics and Projects | Mon 1 Jun – Fri 5 Jun | Room LH212, Lecture Hall Complex, IIT Delhi · 9:30 AM – 5:15 PM |
+| Week 1 — Foundations and Deep Learning | Tue 23 June – Fri 26 June | Bechtel GGN Office, Gurugram · 9:00 AM – 5:00 PM |
+| Week 2 — LLM, RAG, Agentic AI | Mon 1 Jun – Fri 5 Jun | Room LH212, Research & Innovation Park, IIT Delhi · 9:30 AM – 5:15 PM |
 
 ---
 
 ## Table of Contents
 
-- [Week 1 — Foundations](#week-1--foundations)
-- [Week 2 — Deep Learning](#week-2--deep-learning)
-- [Week 3 — Advanced Applications and Projects](#week-3--advanced-applications-and-projects)
+- [Week 1 — Foundations and Deep Learning](#week-1--foundations-dl)
+- [Week 2 — LLM, RAG, Agentic AI](#week-2--llm)
 - [Datasets](#datasets)
 - [How to Use the Colab Notebooks](#how-to-use-the-colab-notebooks)
 
@@ -38,7 +36,7 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L1 | Tue, 19 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
+| L1 | Tue, 23 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
 | T1 | Tue, 19 May | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
 | L2 | Wed, 20 May | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro.pdf) | — |
 | T2 | Wed, 20 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
