@@ -1,0 +1,77 @@
+date,product_category,product_name,units_sold,unit_price,revenue,region,sales_rep
+2024-01-05,Electronics,Laptop Pro 15,12,85000,1020000,North,Rahul Sharma
+2024-01-08,Clothing,Winter Jacket,45,2500,112500,South,Priya Patel
+2024-01-10,Food,Organic Honey Pack,120,350,42000,East,Amit Singh
+2024-01-12,Furniture,Office Chair Ergonomic,18,8500,153000,West,Neha Gupta
+2024-01-15,Electronics,Wireless Headphones,35,4500,157500,South,Vikram Mehta
+2024-01-18,Clothing,Formal Shirt Pack,60,1800,108000,North,Rahul Sharma
+2024-01-22,Food,Premium Coffee Beans,80,600,48000,West,Neha Gupta
+2024-01-25,Furniture,Bookshelf Walnut,22,12000,264000,East,Amit Singh
+2024-02-02,Electronics,Smartphone X12,20,32000,640000,East,Amit Singh
+2024-02-05,Clothing,Denim Jeans Classic,55,1500,82500,West,Neha Gupta
+2024-02-08,Food,Protein Powder 1kg,95,1200,114000,North,Rahul Sharma
+2024-02-12,Furniture,Dining Table Set,8,25000,200000,South,Priya Patel
+2024-02-15,Electronics,Smart Watch Series 5,28,18000,504000,North,Rahul Sharma
+2024-02-20,Clothing,Casual T-Shirt Pack,90,800,72000,East,Amit Singh
+2024-02-24,Food,Dry Fruit Box Premium,65,950,61750,South,Vikram Mehta
+2024-03-01,Furniture,Sofa Set 3-Seater,6,45000,270000,West,Neha Gupta
+2024-03-05,Electronics,Tablet Pro 11,15,28000,420000,South,Priya Patel
+2024-03-10,Clothing,Sports Shoes Nike,40,3500,140000,North,Rahul Sharma
+2024-03-14,Food,Green Tea Pack 100,110,280,30800,East,Amit Singh
+2024-03-18,Furniture,Study Desk Compact,25,9500,237500,South,Vikram Mehta
+2024-03-22,Electronics,Bluetooth Speaker,50,3200,160000,West,Neha Gupta
+2024-04-03,Clothing,Kurta Set Traditional,70,2200,154000,South,Priya Patel
+2024-04-07,Food,Basmati Rice 5kg,200,450,90000,North,Rahul Sharma
+2024-04-12,Furniture,Wardrobe 3-Door,10,32000,320000,East,Amit Singh
+2024-04-16,Electronics,Gaming Mouse,45,2800,126000,North,Rahul Sharma
+2024-04-20,Clothing,Summer Dress Floral,55,1900,104500,West,Neha Gupta
+2024-05-02,Food,Almonds 500g Pack,88,750,66000,South,Vikram Mehta
+2024-05-06,Furniture,Coffee Table Glass,20,7500,150000,North,Rahul Sharma
+2024-05-10,Electronics,USB-C Hub 7-Port,60,1500,90000,East,Amit Singh
+2024-05-15,Clothing,Raincoat Waterproof,38,2800,106400,South,Priya Patel
+2024-05-20,Food,Olive Oil Extra Virgin,75,850,63750,West,Neha Gupta
+2024-05-25,Furniture,Bed Frame Queen,7,38000,266000,East,Amit Singh
+2024-06-03,Electronics,Monitor 27-inch 4K,18,32000,576000,South,Vikram Mehta
+2024-06-08,Clothing,Linen Trousers,48,2100,100800,North,Rahul Sharma
+2024-06-12,Food,Whey Protein 2kg,92,2200,202400,East,Amit Singh
+2024-06-18,Furniture,TV Cabinet Modern,14,18000,252000,South,Priya Patel
+2024-07-04,Electronics,Portable SSD 1TB,42,7500,315000,West,Neha Gupta
+2024-07-09,Clothing,Ethnic Wear Combo,65,3200,208000,North,Rahul Sharma
+2024-07-14,Food,Mango Pickle Jar,150,220,33000,South,Vikram Mehta
+2024-07-19,Furniture,Recliner Chair,9,28000,252000,East,Amit Singh
+2024-08-05,Electronics,Noise Cancelling Earbuds,55,6500,357500,South,Priya Patel
+2024-08-10,Clothing,Silk Saree Premium,30,5500,165000,West,Neha Gupta
+2024-08-16,Food,Cheese Block 500g,85,680,57800,North,Rahul Sharma
+2024-08-22,Furniture,Shoe Rack Wooden,32,4500,144000,East,Amit Singh
+2024-09-03,Electronics,Smart Home Hub,22,12500,275000,West,Neha Gupta
+2024-09-08,Clothing,Diwali Kurta Set,88,2800,246400,South,Vikram Mehta
+2024-09-14,Food,Cashew Nuts 1kg,70,1100,77000,North,Rahul Sharma
+2024-09-20,Furniture,Mirror Full Length,18,6500,117000,South,Priya Patel
+2024-10-02,Electronics,Laptop Ultra Slim,28,92000,2576000,North,Rahul Sharma
+2024-10-05,Electronics,iPhone 16 Pro,45,95000,4275000,East,Amit Singh
+2024-10-08,Clothing,Winter Coat Premium,52,4200,218400,West,Neha Gupta
+2024-10-10,Electronics,Gaming Laptop RTX,15,125000,1875000,South,Vikram Mehta
+2024-10-14,Food,Festive Dry Fruit Box,180,1200,216000,North,Rahul Sharma
+2024-10-18,Electronics,Smart TV 55-inch 4K,32,65000,2080000,West,Neha Gupta
+2024-10-22,Furniture,L-Shaped Sofa,8,55000,440000,East,Amit Singh
+2024-11-01,Electronics,MacBook Air M3,20,115000,2300000,North,Rahul Sharma
+2024-11-04,Electronics,iPad Pro 12.9,38,85000,3230000,South,Priya Patel
+2024-11-08,Clothing,Woolen Sweater Pack,75,1800,135000,East,Amit Singh
+2024-11-11,Electronics,Sony PlayStation 5,25,55000,1375000,West,Neha Gupta
+2024-11-15,Food,Christmas Hamper,95,2500,237500,South,Vikram Mehta
+2024-11-18,Electronics,Wireless Keyboard+Mouse,65,3800,247000,North,Rahul Sharma
+2024-11-22,Furniture,Christmas Tree Stand,28,3500,98000,East,Amit Singh
+2024-11-25,Electronics,Samsung Galaxy S25,42,80000,3360000,South,Priya Patel
+2024-12-01,Electronics,AirPods Pro 3,58,22000,1276000,East,Amit Singh
+2024-12-03,Electronics,Laptop Pro Business,18,105000,1890000,West,Neha Gupta
+2024-12-05,Clothing,Party Wear Dress,62,3800,235600,North,Rahul Sharma
+2024-12-08,Electronics,GoPro Hero 13,22,42000,924000,South,Vikram Mehta
+2024-12-10,Electronics,Smart Watch Ultra,35,35000,1225000,North,Rahul Sharma
+2024-12-12,Food,New Year Gift Box,220,1800,396000,West,Neha Gupta
+2024-12-15,Electronics,Drone Mini Pro,18,28000,504000,East,Amit Singh
+2024-12-18,Furniture,Dining Chair Set 6,12,22000,264000,South,Priya Patel
+2024-12-20,Electronics,Robot Vacuum Cleaner,28,35000,980000,North,Rahul Sharma
+2024-12-22,Clothing,New Year Party Kit,85,2200,187000,West,Neha Gupta
+2024-12-26,Electronics,65-inch OLED TV,15,180000,2700000,South,Vikram Mehta
+2024-12-28,Food,Premium Wine Set,60,2200,132000,East,Amit Singh
+2024-12-30,Electronics,Home Theatre System,12,95000,1140000,North,Rahul Sharma
