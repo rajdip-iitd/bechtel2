@@ -19,7 +19,7 @@
 | Week | Dates | Location |
 |------|-------|----------|
 | Week 1 — Foundations and Deep Learning | Tue 23 June – Fri 26 June | Bechtel GGN Office, Gurugram · 9:00 AM – 5:00 PM |
-| Week 2 — LLM, RAG, Agentic AI | Mon 1 Jun – Fri 5 Jun | Room LH212, Research & Innovation Park, IIT Delhi · 9:30 AM – 5:15 PM |
+| Week 2 — LLM, RAG, Agentic AI | Mon 29 June – Fri 3 July | Room LH212, Research & Innovation Park, IIT Delhi · 9:30 AM – 5:15 PM |
 
 ---
 
