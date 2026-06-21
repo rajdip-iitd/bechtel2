@@ -54,21 +54,6 @@
 
 ---
 
--->
-
-## Week 2 — LLMs, RAG, and LLM Agents
-
-| # | Date | Topic | Slides | Notebook |
-|---|------|-------|:------:|:--------:|
-
-| — | Wed, 27 May | **National Holiday — No Class** | — | — |
-
-| L8 | Fri, 29 May | Attention Mechanisms, Transformers: Intuition and Architecture  | [Transformer_PDF](Lectures/L9_seq.pdf) | — |
-
-| T8 | Fri, 29 May | Tutorial: Transformer | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1szSyDXIkMT3UEIZu89O8XDVweyyLiUE3?usp=sharing) |
-
-
----
 
 ## How to Use the Colab Notebooks
 
