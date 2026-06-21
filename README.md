@@ -46,10 +46,10 @@
 | T4 | Wed, 24 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
 | L5 | Thu, 25 May | Training Deep Networks: Optimization, Regularization, and Batch Norm | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
 | L6 | Thu, 25 May | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN.pdf) | — |
-| T5 | Thu, 26 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) |
-| L7 | Fri, 27 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [RNN_PDF](Lectures/L9_RNN.pdf)  | — |
-| T6 | Fri, 27 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArPqjYnt2nNONJvIOjUw2NztWJVxFEg6?usp=sharing) |
-| L8 | Fri, 27 May | Attention Mechanism | [Transformer_PDF](Lectures/L9_seq.pdf) | |
+| T5 | Thu, 25 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) |
+| L7 | Fri, 26 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [RNN_PDF](Lectures/L9_RNN.pdf)  | — |
+| T6 | Fri, 26 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArPqjYnt2nNONJvIOjUw2NztWJVxFEg6?usp=sharing) |
+| L8 | Fri, 26 May | Attention Mechanism | [Transformer_PDF](Lectures/L9_seq.pdf) | |
 
 
 ---
