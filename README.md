@@ -51,7 +51,12 @@
 | T6 | Fri, 26 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArPqjYnt2nNONJvIOjUw2NztWJVxFEg6?usp=sharing) |
 | L8 | Fri, 26 May | Attention Mechanism | [Transformer_PDF](Lectures/L9_seq.pdf) | |
 
+## Week 2 — LLM, RAG, Agentic AI
 
+| # | Date | Topic | Slides | Notebook |
+|---|------|-------|:------:|:--------:|
+
+Will be updated soon
 ---
 
 
