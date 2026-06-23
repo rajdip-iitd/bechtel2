@@ -36,7 +36,7 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L1 | Tue, 23 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel.pdf) | — |
+| L1 | Tue, 23 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel_2.pdf) | — |
 | T1 | Tue, 23 May | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
 | L2 | Tue, 23 May | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro.pdf) | — |
 | T2 | Tue, 23 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
