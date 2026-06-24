@@ -42,7 +42,7 @@
 | T2 | Tue, 23 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
 | L3 | Wed, 24 May | Linear and Logistic Regression | [LinReg PDF](Lectures/L3_linear_2.pdf) | [LogReg PDF](Lectures/L4_logit_2.pdf) |
 | T3 | Wed, 24 May | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
-| L4 | Wed, 24 May | ANNs: Architecture and Optimization | [ANN_PDF](Lectures/L7_ANN.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
+| L4 | Wed, 24 May | ANNs: Architecture and Optimization | [ANN_PDF](Lectures/L7_ANN_2.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
 | T4 | Wed, 24 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
 | L5 | Thu, 25 May | Training Deep Networks: Optimization, Regularization, and Batch Norm | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
 | L6 | Thu, 25 May | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN.pdf) | — |
