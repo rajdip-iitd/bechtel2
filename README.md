@@ -44,7 +44,7 @@
 | T3 | Wed, 24 May | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
 | L4 | Wed, 24 May | ANNs: Architecture and Optimization | [ANN_PDF](Lectures/L7_ANN_2.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
 | T4 | Wed, 24 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
-| L5 | Thu, 25 May | Training Deep Networks: Optimization, Regularization, and Batch Norm | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
+| L5 | Thu, 25 May | Genealization | [PDF](Lectures/Lecture9_Generalization_2.pdf) | — |
 | L6 | Thu, 25 May | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN.pdf) | — |
 | T5 | Thu, 25 May | CNN Tutorial using PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) |
 | L7 | Fri, 26 May | Sequence Modelling: RNNs and LSTMs for Time-Series | [RNN_PDF](Lectures/L9_RNN.pdf)  | — |
