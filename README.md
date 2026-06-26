@@ -47,9 +47,9 @@
 | L5 | Thu, 25 May | Generalization | [PDF](Lectures/Lecture9_Generalization_2.pdf) | — |
 | L6 | Thu, 25 May | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN_2.pdf) | — |
 | T5 | Thu, 25 May | CNN Tutorial using PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CrppuFmk59ihdasaqUozVLTzqm0rlXSW) |
-| L7 | Fri, 26 May | Sequence Modelling: RNNs | [RNN_PDF]()  | — |
-| T6 | Fri, 26 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ArPqjYnt2nNONJvIOjUw2NztWJVxFEg6?usp=sharing) |
-| L8 | Fri, 26 May | Processing Texts for AI/ML | [Text Embedding]() | |
+| L7 | Fri, 26 May | Processing Texts for AI/ML | [Text Embedding](https://slides.com/rajdipnayek/sequence-modelling-and-rnns-08d2af/fullscreen) | — |
+| T6 | Fri, 26 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cGWk2Kbe6u80BQnlwliyNYDvLUmuryHE?usp=sharing) |
+| L8 | Fri, 26 May | Sequence Modelling: RNNs | [RNN_PDF]()  | — |
 
 ## Week 2 — LLM, RAG, Agentic AI
 
