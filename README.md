@@ -58,7 +58,7 @@
 
 | L9 | Mon, 29 May | Language Modeling: RNNs to Attention | [Attention](https://slides.com/rajdipnayek/deck-18f018/fullscreen)  | — |
 | L10 | Mon, 29 May | Language Modeling: Transformers | [Transformer](https://slides.com/rajdipnayek/sequence-modelling-and-rnns/fullscreen)  | — |
-| T7 | Mon, 29 May | Tutorial: Transformers |  — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cGWk2Kbe6u80BQnlwliyNYDvLUmuryHE?usp=sharing) |
+| T7 | Mon, 29 May | Tutorial: Transformers |  — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qD9eJVrCXGWOgwbq9-u03voGKLZ7EDMd#scrollTo=c248341b) |
 
 ---
 
