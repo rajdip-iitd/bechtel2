@@ -36,28 +36,30 @@
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L1 | Tue, 23 May | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel_2.pdf) | — |
-| T1 | Tue, 23 May | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
-| L2 | Tue, 23 May | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro_2.pdf) | — |
-| T2 | Tue, 23 May | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
-| L3 | Wed, 24 May | Linear and Logistic Regression | [LinReg PDF](Lectures/L3_linear_2.pdf) | [LogReg PDF](Lectures/L4_logit_2.pdf) |
-| T3 | Wed, 24 May | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
-| L4 | Wed, 24 May | ANNs: Architecture and Optimization | [ANN_PDF](Lectures/L7_ANN_2.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
-| T4 | Wed, 24 May | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
-| L5 | Thu, 25 May | Generalization | [PDF](Lectures/Lecture9_Generalization_2.pdf) | — |
-| L6 | Thu, 25 May | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN_2.pdf) | — |
-| T5 | Thu, 25 May | CNN Tutorial using PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CrppuFmk59ihdasaqUozVLTzqm0rlXSW) |
-| L7 | Fri, 26 May | Processing Texts for AI/ML | [Text Embedding](https://slides.com/rajdipnayek/sequence-modelling-and-rnns-08d2af/fullscreen) | — |
-| T6 | Fri, 26 May | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cGWk2Kbe6u80BQnlwliyNYDvLUmuryHE?usp=sharing) |
-| L8 | Fri, 26 May | Sequence Modelling: RNNs | [RNN_PDF](https://slides.com/rajdipnayek/sequence-modelling-and-rnns/fullscreen)  | — |
+| L1 | Tue, 23 June | Intro to AI/ML: Landscape, Terminology, and Why It Matters for EPC | [PDF](Lectures/L1-AI_ML_Bechtel_2.pdf) | — |
+| T1 | Tue, 23 June | Tutorial: ML Workflow — Colab setup, variables, and reading code | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17xe2YDAQfpAumFrdjjL_j1XdgZYuwsxX?usp=sharing) |
+| L2 | Tue, 23 June | Understanding Data: How to Read and Inspect a Dataset | [PDF](Lectures/L2_Bad_data_Intro_2.pdf) | — |
+| T2 | Tue, 23 June | Data Preparation: Cleaning, Scaling, and Encoding | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wtVTdO-OlFpiCgl2rtwLWemIgT7TP9QV?usp=sharing) |
+| L3 | Wed, 24 June | Linear and Logistic Regression | [LinReg PDF](Lectures/L3_linear_2.pdf) | [LogReg PDF](Lectures/L4_logit_2.pdf) |
+| T3 | Wed, 24 June | Tutorial: Linear Regression and Classification | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11fviZnZIW_srr9pcPqshC74b2DChMGsO?usp=sharing) |
+| L4 | Wed, 24 June | ANNs: Architecture and Optimization | [ANN_PDF](Lectures/L7_ANN_2.pdf) | [ANNOptim1_PDF](Lectures/L7opt1.pdf) <br> [ANNOptim2_PDF](Lectures/L7opt2.pdf)|
+| T4 | Wed, 24 June | Tutorial: Building Your First Neural Network with PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1EO6QaC8kuGW5QVit_ZMTRLpbRUIhISm8?usp=sharing) |
+| L5 | Thu, 25 June | Generalization | [PDF](Lectures/Lecture9_Generalization_2.pdf) | — |
+| L6 | Thu, 25 June | CNNs for Images: Architecture | [CNN_PDF](Lectures/L8_CNN_2.pdf) | — |
+| T5 | Thu, 25 June | CNN Tutorial using PyTorch | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1L3_FyTh6z_KO2DYRSSk2sd4sz_YxpifR?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1CrppuFmk59ihdasaqUozVLTzqm0rlXSW) |
+| L7 | Fri, 26 June | Processing Texts for AI/ML | [Text Embedding](https://slides.com/rajdipnayek/sequence-modelling-and-rnns-08d2af/fullscreen) | — |
+| T6 | Fri, 26 June | Tutorial: RNNs in PyTorch | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cGWk2Kbe6u80BQnlwliyNYDvLUmuryHE?usp=sharing) |
+| L8 | Fri, 26 June | Sequence Modelling: RNNs | [RNN_PDF](https://slides.com/rajdipnayek/sequence-modelling-and-rnns/fullscreen)  | — |
 
 ## Week 2 — LLM, RAG, Agentic AI
 
 | # | Date | Topic | Slides | Notebook |
 |---|------|-------|:------:|:--------:|
-| L9 | Mon, 29 May | Language Modeling: RNNs to Attention | [Attention](Lectures/Language-Modeling.pdf)  | — |
-| L10 | Mon, 29 May | Language Modeling: Transformers | [Transformer](Lectures/Transformer.pdf)  | — |
-| T7 | Mon, 29 May | Tutorial: Transformers | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qD9eJVrCXGWOgwbq9-u03voGKLZ7EDMd#scrollTo=c248341b) |
+| L9 | Mon, 29 June| Language Modeling: RNNs to Attention | [Attention](Lectures/Language-Modeling.pdf)  | — |
+| L10 | Mon, 29 June | Language Modeling: Transformers | [Transformer](Lectures/Transformer.pdf)  | — |
+| T7 | Mon, 29 June | Tutorial: Transformers | — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qD9eJVrCXGWOgwbq9-u03voGKLZ7EDMd#scrollTo=c248341b) |
+| L11 | Mon, 29 June | Large Language Models |  [LLMs](Lectures/LLMs.pdf) | — |
+| T8 | Tue, 30 June | Claude code CLI installation with DeepSeek |  [Claude Code](docs/claude_beginner.md) | — |
 
 ---
 
