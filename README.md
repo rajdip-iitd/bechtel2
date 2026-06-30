@@ -63,6 +63,7 @@
 | T8 | Tue, 30 June | Claude code CLI installation with DeepSeek |  [Claude Code](docs/claude_beginner.md) | — |
 | T9 | Tue, 30 June | Tutorial: RAG for LLMs| — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZGXxiV9fJisYJQAdnmVS28Ix82_sAfgk?usp=sharing)
 | L13 | Tue, 30 June | LLM Agent |  [LLM-Agent](Lectures/L17_LLM_agents.pdf) | — |
+| T10 | Tue, 30 June | Tutorial: MCP using Claude Code| — | [Files](https://drive.google.com/drive/folders/1rfxfa0i8E7FUohJTm7OeIkY9yaHwDUZP?usp=sharing) |
 
 ---
 
