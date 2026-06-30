@@ -62,7 +62,7 @@
 | L12 | Tue, 30 June | More on LLMs |  [LLMs2](Lectures/LLMs2.pdf) | — |
 | T8 | Tue, 30 June | Claude code CLI installation with DeepSeek |  [Claude Code](docs/claude_beginner.md) | — |
 | T9 | Tue, 30 June | Tutorial: RAG for LLMs| — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZGXxiV9fJisYJQAdnmVS28Ix82_sAfgk?usp=sharing)
-| L13 | Tue, 30 June | LLM Agent |  [LLM-Agent](Lectures/L17_LLM_Agents.pdf) | — |
+| L13 | Tue, 30 June | LLM Agent |  [LLM-Agent](Lectures/L17_LLM_agents.pdf) | — |
 
 ---
 
