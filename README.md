@@ -61,6 +61,7 @@
 | L11 | Mon, 29 June | Large Language Models |  [LLMs](Lectures/Towards-LLM.pdf) | — |
 | L12 | Tue, 30 June | More on LLMs |  [LLMs2](https://slides.com/rajdipnayek/deck-f6e490/fullscreen) | — |
 | T8 | Tue, 30 June | Claude code CLI installation with DeepSeek |  [Claude Code](docs/claude_beginner.md) | — |
+| T9 | Tue, 30 June | Tutorial: RAG for LLMs| — | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZGXxiV9fJisYJQAdnmVS28Ix82_sAfgk?usp=sharing)
 ---
 
 
