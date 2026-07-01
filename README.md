@@ -65,6 +65,7 @@
 | L13 | Tue, 30 June | LLM Agent |  [LLM-Agent](Lectures/L17_LLM_agents.pdf) | — |
 | T10 | Tue, 30 June | Tutorial: MCP using Claude Code| — | [Files](https://drive.google.com/drive/folders/1rfxfa0i8E7FUohJTm7OeIkY9yaHwDUZP?usp=sharing) |
 | T11 | Tue, 01 July | A Small Starter kit for Agent using Claude Code CLI| [Starter-Agent](docs/Claude4Bechtel2.md) | — |
+| T12 | Tue, 01 July | Instruction for using AI Agents with Claude Code CLI| [Agent-Instructions](docs/AI_instruction_files_practical_guide.md) | — |
 
 ---
 
